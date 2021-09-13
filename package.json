@@ -10,6 +10,7 @@
     "start": "./node_modules/.bin/ts-node ./src/index.ts"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "looker-action-hub": "looker/actions",
     "ts-node": "^6.0.5",
     "typescript": "^3.0.1"
